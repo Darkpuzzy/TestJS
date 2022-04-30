@@ -1,2 +1,5 @@
+alert ('hello')
 var name = 'Testing cow'
-const yourtest = 'CHEAK OUT'
+const yourtest = 'CHECK OUT'
+
+console.log(yourtest)
